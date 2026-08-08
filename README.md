@@ -1,2 +1,2 @@
 # eStats-privacy-policy
-eStats privacy policy page.
+This page serves the privacy-policy for eStats App.
